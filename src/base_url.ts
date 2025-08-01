@@ -1,0 +1,1 @@
+export const baseUrl = 'https://fg-backend.onrender.com';
